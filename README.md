@@ -9,4 +9,4 @@ Foodie is a modern web app for food lovers to explore, share, and save recipes f
 
 Techstack - HTML, CSS , BOOTSTRAP , JAVASCRIPT 
 
-🔗 Live Demo (GitHub Pages): Souravdas78.github.io/foodie
+🔗 Live Demo (GitHub Pages):  [Souravdas78.github.io/foodie](https://souravdas78.github.io/Foodie/)
